@@ -61,6 +61,8 @@ Los subdominios de la empresa principales son:
 
 En los cuales se concatenan otros subdominios, que se ven en la imagen que se muestra.
 
+![DNSDumpster](https://github.com/Grothnack/Mapa-DNS/blob/main/DNS%20Map.PNG)
+
 ## Herramientas utilizadas
 
 Las herramientas usadas fueron: Whois, The Harvester, Dig, DNSDumpster
