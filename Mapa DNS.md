@@ -10,7 +10,6 @@ También se ha encontrado el ASNS, que es el AS3352, junto con muchas direccione
 
 |Direcciones IP    |
 |------------------|
-
 |35.214.138.222    |
 |35.214.234.62     |
 |35.214.236.46     |
@@ -48,16 +47,17 @@ correo.elpozo.com
 ## Subdominios
 
 Los subdominios de la empresa principales son:
-
-bienestar2.elpozo.com
-promo1954.elpozo.com
-agentes.elpozo.com
-china.elpozo.com
-ac.elpozo.com
-mail.elpozo.com
-correo.elpozo.com
-promo.elpozo.com
-promobienestar.elpozo.com
+|Subdominios               |
+|--------------------------|
+|bienestar2.elpozo.com     |
+|promo1954.elpozo.com      |
+|agentes.elpozo.com        |
+|china.elpozo.com          |
+|ac.elpozo.com             |
+|mail.elpozo.com           |
+|correo.elpozo.com         |
+|promo.elpozo.com          |
+|promobienestar.elpozo.com |
 
 En los cuales se concatenan otros subdominios, que se ven en la imagen que se muestra.
 
